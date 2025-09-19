@@ -68,6 +68,3 @@ state_machine.state_changed.connect(_on_state_changed)
 - Godot 4.x
 - Input actions: `ui_left`, `ui_right`, `ui_accept` (configurable)
 
----
-
-Perfect for platformer games, RPGs, or any character-based game needing organized behavior management.
